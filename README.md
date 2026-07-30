@@ -1,6 +1,6 @@
-# Portfolio — Samantha Nsiona
+# Mon Portfolio
 
-Portfolio personnel, étudiante en Bachelor Informatique & Cybersécurité à l'ESILV, à la recherche d'une alternance Cybersécurité / Développement / IT dès octobre 2026.
+Portfolio personnel, étudiante en Bachelor Informatique & Cybersécurité à l'ESILV, à la recherche d'une alternance Cybersécurité / IT dès octobre 2026.
 
 **Site en ligne :** [samanthansiona.github.io](https://samanthansiona.github.io)
 
