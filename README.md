@@ -11,10 +11,6 @@ Portfolio personnel, étudiante en Bachelor Informatique & Cybersécurité à l'
 - Certifications HackerDNA
 - Formulaire de contact fonctionnel
 
-## Stack technique
-
-Un unique fichier `index.html` : HTML, CSS et JavaScript, sans framework ni dépendance externe (hors polices Google Fonts).
-
 ## Contact
 
 - Email : [nsionas19@gmail.com](mailto:nsionas19@gmail.com)
